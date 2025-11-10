@@ -125,6 +125,16 @@ https://hub.docker.com/repository/docker/deniszakhodyakin/custom-nginx/general
 
 ### Решение 5.
 
+<img width="494" height="88" alt="Задание 5(1)" src="https://github.com/user-attachments/assets/98f99df3-4b07-4aef-947e-f6b52cadfeef" />
+
+<img width="491" height="210" alt="Задание 5(2)" src="https://github.com/user-attachments/assets/785d2aae-4485-4734-98c5-38776cac29d2" />
+
+<img width="1261" height="737" alt="Задание 5(3)" src="https://github.com/user-attachments/assets/e0837864-9573-47a4-96bc-8615b5d7619c" />
+
+<img width="1244" height="45" alt="Задание 5(4)" src="https://github.com/user-attachments/assets/696d1415-9e16-4b80-9485-4fe11c69431b" />
+
+
+
 
 
 
